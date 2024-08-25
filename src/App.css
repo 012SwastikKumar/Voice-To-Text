@@ -1,0 +1,24 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.btn-speak{
+  padding: 0.5rem 1rem;
+  font-size: 1rem;
+  margin: 1rem;
+  cursor: pointer;
+  border: none;
+  border-radius: 0.25rem;
+  background-color: #007bff;
+  color: white;
+}
+
+.App{
+  display: flex;
+  /* flex-direction: column; */
+  align-items: center;
+  justify-content: center;
+}
